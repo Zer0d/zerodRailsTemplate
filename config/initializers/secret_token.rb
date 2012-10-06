@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-ZerodRailsTemplate::Application.config.secret_token = '8eb3d62322b512b246b249a9a4c5b42fd2696dc3f00dee20ef06edfa3e367d2c064a61be50990ffffd5092b8825be902a62442de2a6037da3c8988219b4b09f2'
+ZerodRailsTemplate::Application.config.secret_token = '45af8c4cfac60c6a31f8b85d245af4e9399465cb0f41602e10c24c7ce662ba72b726237c51c42f5044f7cd1d6ecdd64f2c69f0015ac23e50c3ca313966da7153'
